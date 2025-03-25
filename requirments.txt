@@ -1,0 +1,39 @@
+# Core Python Libraries
+numpy==1.26.4
+pandas==2.2.1
+matplotlib==3.8.3
+scipy==1.12.0
+opencv-python==4.9.0.80
+Pillow==10.2.0
+
+# Deep Learning & Image Processing
+tensorflow==2.18.0
+keras==3.8.0
+torch==2.2.0
+torchvision==0.17.0
+ultralytics==8.1.0   # For YOLO-based vehicle detection
+
+# Computer Vision & Video Processing
+scikit-image==0.22.0
+imageio==2.34.0
+
+# Machine Learning & Optimization
+scikit-learn==1.4.1.post1
+xgboost==2.0.3
+lightgbm==4.3.0
+
+# Traffic Data Analytics
+seaborn==0.13.2
+statsmodels==0.14.1
+
+# Flask for API & Web Integration
+flask==3.0.2
+flask-cors==4.0.0
+
+# Logging & Utilities
+loguru==0.7.2
+PyYAML==6.0.1
+
+# Miscellaneous
+tqdm==4.66.2
+requests==2.31.0
